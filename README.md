@@ -25,4 +25,8 @@ UI/UX Design Intern at UneeQ Interns. All of my work is linked below.
 - LinkedIn post: https://lnkd.in/p/ePHmHgj6
 
 ## Extra Task: Design System and Accessibility Kit
-- Coming soon
+- Design system (Figma): https://www.figma.com/design/9NeAUL67C2xUiraDCDWM4c/Task-4---Design-System---Accessibility-Kit?node-id=1-2&t=LfmTQKXcOytBso0E-1
+- Accessibility checklist (Doc): https://docs.google.com/document/d/1VRHTc1kYmT3KF5ZN5llFntnSFd15qcY17N7HAH113Y0/edit?usp=sharing
+- Handoff notes (Doc): https://docs.google.com/document/d/1y2nxXSz23r_nkqiZoJMquMACVdnXqEXSbaZYlMnfbVo/edit?usp=sharing
+- Demo video: https://youtu.be/4NfFNCHChlw
+- LinkedIn post: https://lnkd.in/p/egenumcD 
